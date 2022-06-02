@@ -1,2 +1,2 @@
 # Java-Calculator
-Simple calculator using Java and GUI
+Simple calculator using Java switch statement, implementing GUI
