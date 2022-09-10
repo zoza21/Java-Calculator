@@ -1,6 +1,6 @@
 /*
 Simple calculator using Java and GUI.
-Author: Zoe Arnold 
+Author: zoza
 02022022
 */
 
